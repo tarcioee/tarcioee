@@ -3,6 +3,7 @@
 ## Um pouco sobre mim
 
 👨‍🎓 Graduando de Sistemas da Informação da UFBA 
+
 🤝 Pesquisador/dev em construção
 
 💼 Interessado em inteligência computacional, ciência de dados e mobile
