@@ -6,7 +6,7 @@
 
 🤝 Pesquisador/dev em construção
 
-💼 Interessado em inteligência computacional, ciência de dados e mobile
+💼 Interessado em inteligência computacional, ciência de dados e computação no geral
 
 ❤️ Apaixonado por tecnologia, viciado em aprender coisas novas.
 
