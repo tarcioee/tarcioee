@@ -1,12 +1,12 @@
-# Olá, me contrata?👋
+# Olá, você👋
 
 ## Um pouco sobre mim
 
 👨‍🎓 Graduando de Sistemas da Informação da UFBA 
 
-🤝 Pesquisador/dev em construção
+🤝 Cientista de dados em construção
 
-💼 Interessado em inteligência computacional, ciência de dados e computação no geral
+💼 Interessado em inteligência computacional como um todo. "Como eu resolvo isso aqui com o poder da computação?"
 
 ❤️ Apaixonado por tecnologia, viciado em aprender coisas novas.
 
