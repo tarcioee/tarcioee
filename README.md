@@ -6,7 +6,7 @@
 
 🤝 Cientista de dados em construção
 
-💼 Interessado em inteligência computacional como um todo. "Como eu resolvo isso aqui com o poder da computação?"
+💼 Interessado em inteligência computacional como um todo. "Como eu resolvo isso aqui com i.a./otimização?"
 
 ❤️ Apaixonado por tecnologia, viciado em aprender coisas novas.
 
